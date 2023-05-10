@@ -1,4 +1,6 @@
 print("Hello World")
+print("Life is beautiful")
+
 confess = False
 while not confess:
     user_input = input("Admit Aniket is a Good Boy : ('y' for YES)")
@@ -8,3 +10,4 @@ while not confess:
         confess = True
     else:
         confess = False
+
