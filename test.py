@@ -12,3 +12,4 @@ while not confess:
     for _ in range (10):
         print("B-O-O-M!")
 
+
